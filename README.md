@@ -1,1 +1,1 @@
-# VectorRag-Adaptive-Hallucination-detection-Framework-
+# VectorRag : Adaptive-Hallucination-detection-Framework-
